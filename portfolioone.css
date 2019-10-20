@@ -1,0 +1,33 @@
+body {
+	background-color: Tomato;
+	margin: 2%;
+	border: 1px solid blue;
+
+}
+
+#image {
+	line-height: 500px;
+	width: 750px;
+	height: 850px;
+	border: 6px solid black;
+	margin: 0 auto;
+	background-color:  #8e68ff;
+	background-image:url(honda element.jpg);
+	 color:#CCEECC;
+    text-align: center;
+    background-size: 100%;
+    margin-bottom:25px;
+    font-size: 150%;
+
+
+}
+
+
+.preview{
+		width:10%;
+		margin-left:17%;
+    border: 10px solid black;
+}
+img{
+		width:95%;
+}
